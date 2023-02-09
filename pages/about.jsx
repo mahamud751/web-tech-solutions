@@ -5,7 +5,6 @@ const about = () => {
   return (
     <div className="d-flex justify-content-center align-items-center">
       <main className="main-container" style={{ marginTop: 120 }}>
-        {/* About Company*/}
         <section className="section-padding about-company">
           <div className="container">
             <div className="row">

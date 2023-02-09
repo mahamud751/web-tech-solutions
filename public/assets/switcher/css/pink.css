@@ -1,0 +1,90 @@
+
+a, .btn-link, .btn.outline, .panel-group .panel .panel-title a:hover, .panel-group .panel .panel-title a, .heading_style4 h2 span, .heading_style5 span, .sub_total span, #navigation .nav.navbar-nav a:hover, .top-search .search-btn:hover, #navigation .nav.navbar-nav li .sub-menu li a:hover, .intro_restaurant .intro_text span, .color_icon .fa, .icon_div,  .testimonial_footer:after, .post_meta ul li a:hover, .widgets_icon, .footer_top ul li a:hover, .footer_top ul li a:hover:after, .rec_info .rec_meta a:hover, #footer .rec_info a h6:hover, .follow_us ul li a:hover, .footer_style_6 nav ul li a:hover, .footer_style_6 .footer-style-bottom ul li a:hover, .social_group_style3 li a:hover, .experience_list h6, .filter_project_menu li a:hover, .filter_project_menu li.active a, .top-icon i, .portfolio-tab ul li a:hover, .portfolio-tab ul li.active a, .video-play a:hover, .author-text i, ul.page-numbers .page-numbers.next:hover, ul.page-numbers .page-numbers.next:focus, ul.page-numbers .page-numbers.prev:hover, ul.page-numbers .page-numbers.prev:focus, .post_elements ul li a:hover, .post_tags a, .comming-soon-right-header, .intro_restaurant .intro_text span, .heading_style5 span, .menu_list li .menu_price, .restro_menu .btn.outline, .event-schudule h6 a, .header_style3 #navigation .nav.navbar-nav li > a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, a:hover h1, a:hover h2, a:hover h3, a:hover h4, a:hover h5, a:hover h6{
+	color:#fb2351;	
+	fill: #fb2351;
+}
+
+input[type=text]:focus input[type=password]:hover, input[type=text]:hover, input[type=password]:focus, input[type=number]:focus, input[type=number]:hover, input[type=email]:focus, input[type=email]:hover, input[type=url]:focus, input[type=url]:hover, input[type=search]:focus, input[type=search]:hover, select:focus, select:hover, textarea:focus, textarea:hover {
+    box-shadow: none;
+    outline: 0;
+    border-color: #fb2351;
+}
+
+.form-control:focus {
+    border-color: #fb2351;
+}
+
+
+.nav-tabs a.active {
+    background: #fb2351;
+    border: 1px solid #fb2351 !important;
+	color: #fff !important;
+}
+
+.demo_changer .demo-icon, input[type="submit"], .btn, .btn.outline:hover, .btn.outline:focus, .blue_btn, .header_cart > a .badge, #intro_slider .owl-dots .owl-dot.active, .service_icon, .member_social_info ul li a:hover, .newsletter .go-btn,  .footer_style_6 .social_group li a:hover, .footer-address, .construction-module:hover .top-icon i, .construction-module:hover .top-icon:before, .how-we-work .nav>li>a:focus, .how-we-work .nav>li>a:hover, .how-we-work .nav-tabs>li.active>a, .how-we-work .nav-tabs>li.active>a:focus, .how-we-work .nav-tabs>li.active>a:hover, .service-list li:hover, .timer-panel:hover, .products-slider .owl-nav .owl-prev:hover, .products-slider .owl-nav .owl-next:hover, .support-column:hover, .app-intro-column .top-icon figure, .about-company .progress_list .progress-bar-success, .comapny-panel, ul.page-numbers .page-numbers.current, ul.page-numbers .page-numbers:hover, ul.page-numbers .page-numbers:focus, .post_tags a:hover, .comming-soon-right-header, #back-top a,.product_item:hover .product_icon, .white_btn.btn:focus, .event-timing, #event_slider  .owl-nav .owl-prev:hover, #event_slider  .owl-nav .owl-next:hover, .speaker-panel-content .social_group li a:hover, .product-buttons ul li a:hover, .memories_section, #event-schudule-slider .owl-nav .owl-prev:hover, #event-schudule-slider .owl-nav .owl-next:hover, .intoslid-m .owl-nav .owl-prev:hover, .intoslid-m .owl-nav .owl-next:hover, .product-large-image .owl-nav .owl-prev:hover, 
+.product-large-image .owl-nav .owl-next:hover, #chefs_slider .owl-nav .owl-prev:hover, #chefs_slider .owl-nav .owl-next:hover, #portfolio-single .owl-nav .owl-prev:hover, #portfolio-single .owl-nav .owl-next:hover{
+  background:#fb2351;
+  fill: #fb2351;
+}
+
+.btn, .btn.outline, #navigation .nav.navbar-nav li .sub-menu li a:hover, .icon_div, .owl-dots .owl-dot.active, .member_social_info ul li a:hover, .construction-module:hover .top-icon i, .how-we-work .nav>li>a:focus, .how-we-work .nav>li>a:hover, .how-we-work .nav-tabs>li.active>a, .how-we-work .nav-tabs>li.active>a:focus, .how-we-work .nav-tabs>li.active>a:hover, .portfolio-tab ul li a:hover, .portfolio-tab ul li.active a, .products-slider .owl-nav .owl-prev:hover, .products-slider .owl-nav .owl-next:hover, .post_tags a, #back-top a, .restro_menu .btn.outline, .memories_section, .comming-soon-right-header,.btn.outline:hover, .btn.outline:focus, .product-large-image .owl-nav .owl-prev:hover, 
+.product-large-image .owl-nav .owl-next:hover, .product-thumb .owl-thumb-item.active figure img, #chefs_slider .owl-nav .owl-prev:hover, #chefs_slider .owl-nav .owl-next:hover, #portfolio-single .owl-nav .owl-prev:hover, #portfolio-single .owl-nav .owl-next:hover{
+	border-color:#fb2351;
+}
+
+.testimonial_slider3-content{
+	background: rgba(251,35,81,0.6);
+}
+.servce-column:hover{
+	background: rgba(251,35,81,0.8);
+}
+
+.gray_btn_outline{
+	background:none !important;
+}
+.gray_btn_outline:hover, .gray_btn_outline:focus{
+	background:#fb2351  !important;
+	border-color:#fb2351;
+}
+/*-----------------
+	Dark Color Hover
+-------------------------*/
+a:hover, a:focus, .btn-link:hover, .btn-link:focus {
+	color:#d30b35;	
+	fill: #d30b35;
+}
+
+.btn:hover, .btn:focus, input[type="submit"]:hover, .white_btn.btn:hover, .white_btn.btn:focus, .social_group li a:hover, .newsletter .go-btn:hover, .restro_menu .btn.outline:hover, .restro_menu .btn.outline:focus, .white_pink_btn:hover, .white_pink_btn:focus, #office_gallery_slider .owl-nav .owl-prev:hover, #office_gallery_slider .owl-nav .owl-next:hover{
+	  background:#d30b35;
+	  fill: #d30b35;
+}
+.social_group li a:hover, .restro_menu .btn.outline:hover, .restro_menu .btn.outline:focus, #office_gallery_slider .owl-nav .owl-prev:hover, #office_gallery_slider .owl-nav .owl-next:hover, .btn:hover, .btn:focus, .white_btn.btn:hover, .white_btn.btn:focus{
+	border-color:#d30b35;
+}
+
+/*-----------------
+	Media Query Color
+-------------------------*/
+
+@media (min-width:768px) and (max-width:991px) {
+
+	.navbar-default .navbar-toggle .icon-bar, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover,     	    .navbar-collapse.collapse.in{
+	  background:#fb2351;
+	  fill: #fb2351;
+	}
+	.navbar-default .navbar-toggle{
+		border-color:#fb2351;
+	}
+
+}
+
+@media (max-width:767px) {
+	.navbar-default .navbar-toggle .icon-bar, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, 			    .navbar-collapse.collapse.in{
+	  background:#fb2351;
+	  fill: #fb2351;
+	}
+	.navbar-default .navbar-toggle{
+		border-color:#fb2351;
+	}
+}
+
